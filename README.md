@@ -47,3 +47,6 @@ Open comsocketbridge.exe.config
 
 #### Logging
 Logging is enabled by default (see above) and located in c:\comsocketbridge\logs
+
+## Demo
+Demo can found in the [Wiki](https://github.com/LuckyMallari/com-socket-bridge/wiki/Demo)
