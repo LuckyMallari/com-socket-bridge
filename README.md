@@ -11,6 +11,15 @@ Simply run the exe and it will:
     ```
     comsocketbridge.exe uninstall
     ```
+	or just run the uninstall.bat
+	### Output:
+	```
+	comsocketbridge.exe uninstall
+    COM Socket Bridge { Lucky Mallari(2018) }
+    https://github.com/LuckyMallari/com-socket-bridge
+    [01/20/2018 06:39:37 PM] Service stopped and uninstalled!
+    Hit ENTER to exit
+    ```
     
 ## Configuration
 Open comsocketbridge.exe.config
