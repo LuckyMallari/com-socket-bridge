@@ -8,7 +8,7 @@ namespace ComSocketBridge
     static class ConfigManager
     {
         // HIS IS A GPL V3 LICENCE. SO PLEASE DO NOT REMOVE or CHANGE.
-        public const string Header = "  COM Socket Bridge { Lucky Mallari(__YEAR__) }\n   https://github.com/LuckyMallari/com-socket-bridge\n";
+        public const string Header = "   COM Socket Bridge { Lucky Mallari(__YEAR__) }\n   https://github.com/LuckyMallari/com-socket-bridge\n";
 
         private static readonly int _localport;
         private static readonly string _greeting;

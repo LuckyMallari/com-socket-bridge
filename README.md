@@ -35,3 +35,6 @@ Open comsocketbridge.exe.config
   * File format: comsocketbridge.MMddyyy.txt
   * If unable to write to log, application will continue to run, just without logging.
 * **greet** - Greets clients on connect.
+
+#### Logging
+Logging is enabled by default (see above) and located in c:\comsocketbridge\logs

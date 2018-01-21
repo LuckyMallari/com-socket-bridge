@@ -106,7 +106,7 @@ namespace ComSocketBridge
 
         protected override void OnStart(string[] args)
         {
-            Logger.Log(ConfigManager.Header);
+            Logger.Log("Started");
 
             try
             {

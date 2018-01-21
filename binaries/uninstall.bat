@@ -1,0 +1,1 @@
+comsocketbridge.exe uninstall
